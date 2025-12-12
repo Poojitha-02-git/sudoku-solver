@@ -4,10 +4,10 @@ This project is an efficient and fully functional Sudoku Solver implemented in C
 ![Output](sample_output.png)
 
 FEATURES:
-Accepts any valid 9x9 Sudoku grid as input
-Automatically solves the puzzle using a backtracking algorithm
-Displays the solved Sudoku in a clear format
-Lightweight and easy to run using Sublime Text
+Accepts any valid 9x9 Sudoku grid as input. <br>
+Automatically solves the puzzle using a backtracking algorithm. <br>
+Displays the solved Sudoku in a clear format. <br>
+Lightweight and easy to run using Sublime Text. <br>
 
 TEXT EDITOR USED:
 Sublime text
